@@ -1,4 +1,7 @@
 ## Requirements
+-Sprig
+
+or
 
 - Raspberry Pi (any model)
 - Adafruit 16x2 LCD Pi Plate
