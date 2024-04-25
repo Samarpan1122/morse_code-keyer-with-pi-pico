@@ -24,8 +24,8 @@ Clone this repo:
 
 ```bash
 cd
-git clone https://github.com/mrpjevans/twitterkey.git
-cd twitterkey
+git clone Samarpan1122/morse_code-keyer-with-pi-pico.git
+cd morse_code-keyer-with-pi-pico
 ```
 
 ## Starting
